@@ -6,5 +6,5 @@ This is a mobile application that allows users to view and select musical albums
 
 ##### What was used?
 - React Native, to handle the presentation logic of the application
-- Axios, to retrieve data from API
+- Axios, to retrieve data from RallyCoding API
 
